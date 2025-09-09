@@ -122,9 +122,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 ### 📊 Data Science & Analytics
 
 <p>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   </a>
