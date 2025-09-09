@@ -9,8 +9,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150" alt="Octocat"/>
   <p>
     <em>
-      🚀 Building simple tools & apps using <b>AI</b> & <b>Machine Learning</b>.<br>
-      Welcome to my GitHub profile — let’s innovate together!
+      🚀 Building simple tools & apps using <b>Artificial Intelligence</b> & <b>Machine Learning</b>.<br>
     </em>
   </p>
 </div>
@@ -148,9 +147,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   </a>
 </p>
 
