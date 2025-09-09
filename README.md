@@ -19,12 +19,19 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ## 🚀 Completed Projects
 
-| Category | Project | Description | Tech/Methods |
-|----------|---------|-------------|--------------|
-| 🎓 IIT Madras Diploma in Programming | [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Modern Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
-| 🎓 IIT Madras Diploma in Programming | [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Modern Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
-| 🎓 IIT Madras Diploma in Data Science | [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj) | Business Data Management | ABC, Inventory Turnover, RFM, Market Basket Analysis, Microsoft Office |
-| 🎓 IIT Madras Diploma in Data Science | [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj) | Machine Learning Practice | Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
+### 🎓 IIT Madras Diploma in Programming
+
+| Project | Description | Tech/Methods |
+|---------|-------------|--------------|
+| [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Modern Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
+| [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Modern Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
+
+### 🎓 IIT Madras Diploma in Data Science
+
+| Project | Description | Tech/Methods |
+|---------|-------------|--------------|
+| [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj) | Business Data Management | ABC Analysis, Inventory Turnover, RFM, Market Basket Analysis, Microsoft Office |
+| [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj) | Machine Learning Practice | Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
 
 ---
 
