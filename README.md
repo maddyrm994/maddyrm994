@@ -21,14 +21,14 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ### 🎓 IIT Madras Diploma in Programming
 
-| Project | Description | Tech/Methods |
+| Project | Course | Tech/Methods |
 |---------|-------------|--------------|
-| [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Modern Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
-| [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Modern Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
+| [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
+| [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
 
 ### 🎓 IIT Madras Diploma in Data Science
 
-| Project | Description | Tech/Methods |
+| Project | Course | Tech/Methods |
 |---------|-------------|--------------|
 | [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj) | Business Data Management | ABC Analysis, Inventory Turnover, RFM, Market Basket Analysis, Microsoft Office |
 | [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj) | Machine Learning Practice | Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
