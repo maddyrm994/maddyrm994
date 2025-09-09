@@ -19,44 +19,12 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ## 🚀 Completed Projects
 
-<table>
-  <tr>
-    <td>
-      <b>🎓 IIT Madras Diploma in Programming</b>
-      <ul>
-        <li>
-          <b>Application Development 1:</b>
-          <a href="https://github.com/maddyrm994/mad1_proj">Music Streaming App V1</a>
-          <br>
-          <sub>Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database)</sub>
-        </li>
-        <li>
-          <b>Application Development 2:</b>
-          <a href="https://github.com/maddyrm994/mad2_proj">Music Streaming App V2</a>
-          <br>
-          <sub>Python, Javascript (VueJS), SQLite, Redis, Celery</sub>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <b>🎓 IIT Madras Diploma in Data Science</b>
-      <ul>
-        <li>
-          <b>Business Data Management:</b>
-          <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a>
-          <br>
-          <sub>ABC, Inventory Turnover, RFM, Market Basket | Microsoft Office</sub>
-        </li>
-        <li>
-          <b>Machine Learning Practice:</b>
-          <a href="https://github.com/maddyrm994/mlp_proj">Success Prediction for Bank Telemarketing</a>
-          <br>
-          <sub>Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn</sub>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Category | Project | Description | Tech/Methods |
+|----------|---------|-------------|--------------|
+| 🎓 IIT Madras Diploma in Programming | [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Modern Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
+| 🎓 IIT Madras Diploma in Programming | [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Modern Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
+| 🎓 IIT Madras Diploma in Data Science | [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj) | Business Data Management | ABC, Inventory Turnover, RFM, Market Basket Analysis, Microsoft Office |
+| 🎓 IIT Madras Diploma in Data Science | [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj) | Machine Learning Practice | Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
 
 ---
 
