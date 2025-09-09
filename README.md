@@ -151,19 +151,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ## 📫 Connect with Me
 
-- 📧 Email: maddyrm994@gmail.com
-- 💼 LinkedIn: [Madhavan R Mohan](https://linkedin.com/in/madhavan-r-mohan-62b9601b2)
+- 📧 Email: madhavan.rajeswari.mohan@gmail.com
+- 💼 LinkedIn: [Madhavan Rajeswari Mohan](https://www.linkedin.com/in/madhavan-rajeswari-mohan-7953201b7/)
 - 🌐 GitHub: [maddyrm994](https://github.com/maddyrm994)
 
 ---
-
-<div align="center">
-
-  <a href="https://github.com/maddyrm994">
-    <img src="https://img.shields.io/github/followers/maddyrm994?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <br>
-  <sub>
-    <em>Thanks for visiting my profile! Feel free to connect or check out my projects 🚀</em>
-  </sub>
-</div>
