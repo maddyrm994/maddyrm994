@@ -9,7 +9,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150" alt="Octocat"/>
   <p>
     <em>
-      🚀 Building simple tools & apps using <b>Artificial Intelligence</b> & <b>Machine Learning</b>.<br>
+      🤖 Building simple tools & apps using <b>Artificial Intelligence</b> & <b>Machine Learning</b>.<br>
     </em>
   </p>
 </div>
@@ -51,7 +51,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ---
 
-### 🖥️ Streamlit Dashboards
+### 📈 Streamlit Dashboards
 
 - **[Student Churn Predictor](https://github.com/maddyrm994/student-churn-predictor)**  
   Predicts dropout using academic, demographic, and engagement data.  
