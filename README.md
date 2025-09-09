@@ -167,6 +167,9 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   </a>
@@ -177,10 +180,25 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
 
-- 📧 Email: madhavan.rajeswari.mohan@gmail.com
-- 💼 LinkedIn: [Madhavan Rajeswari Mohan](https://www.linkedin.com/in/madhavan-rajeswari-mohan-7953201b7/)
-- 🌐 GitHub: [maddyrm994](https://github.com/maddyrm994)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&theme=radical" alt="maddyrm994's GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical" alt="maddyrm994's Most Used Languages" height="180">
+</p>
 
 ---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:maddyrm994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/madhavan-r-mohan-62b9601b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/maddyrm994" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
