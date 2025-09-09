@@ -95,16 +95,31 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ### 🖥️ Programming
 
+**Frontend**
 <p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+</p>
+
+**Backend**
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+</p>
+
+**Databases & Messaging**
+<p>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   </a>
@@ -114,10 +129,9 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank">
     <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
+
+---
 
 ### 📊 Data Science & Analytics
 
@@ -137,11 +151,27 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Seaborn-2A2A2A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
+</p>
+
+---
+
+### 🛠️ Platforms & Tools
+
+<p>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
   <a href="https://www.kaggle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
