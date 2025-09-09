@@ -15,144 +15,178 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ## 🚀 Completed Projects
 
-### 🎓 IIT Madras Diploma in Programming
-
-- **Modern Application Development 1**  
-  [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj)  
-  <sub>
-    <b>Tech Stack:</b> Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database)
-  </sub>
-
-- **Modern Application Development 2**  
-  [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj)  
-  <sub>
-    <b>Tech Stack:</b> Python, JavaScript (VueJS), SQLite, Redis, Celery
-  </sub>
-
-### 🎓 IIT Madras Diploma in Data Science
-
-- **Business Data Management**  
-  [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj)  
-  <sub>
-    <b>Methods:</b> ABC Analysis, Inventory Turnover, RFM Analysis, Market Basket Analysis  
-    <b>Tools:</b> Microsoft Office
-  </sub>
-
-- **Machine Learning Practice**  
-  [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj)  
-  <sub>
-    <b>Tech Stack:</b> Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
-    <b>Process:</b> EDA, Data Preprocessing, Feature Engineering, Model Training & Selection  
-    <b>Models:</b> Logistic Regression, K-Nearest Neighbors, Random Forest, Histogram Gradient Boosting
-  </sub>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🎓 IIT Madras Diploma in Programming</h3>
+      <ul>
+        <li>
+          <b>Modern Application Development 1</b><br>
+          <a href="https://github.com/maddyrm994/mad1_proj">Music Streaming App V1</a><br>
+          <sub>
+            <b>Tech Stack:</b> Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database)
+          </sub>
+        </li>
+        <br>
+        <li>
+          <b>Modern Application Development 2</b><br>
+          <a href="https://github.com/maddyrm994/mad2_proj">Music Streaming App V2</a><br>
+          <sub>
+            <b>Tech Stack:</b> Python, JavaScript (VueJS), SQLite, Redis, Celery
+          </sub>
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🎓 IIT Madras Diploma in Data Science</h3>
+      <ul>
+        <li>
+          <b>Business Data Management</b><br>
+          <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a><br>
+          <sub>
+            <b>Methods:</b> ABC Analysis, Inventory Turnover, RFM Analysis, Market Basket Analysis<br>
+            <b>Tools:</b> Microsoft Office
+          </sub>
+        </li>
+        <br>
+        <li>
+          <b>Machine Learning Practice</b><br>
+          <a href="https://github.com/maddyrm994/mlp_proj">Success Prediction for Bank Telemarketing</a><br>
+          <sub>
+            <b>Tech Stack:</b> Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn<br>
+            <b>Process:</b> EDA, Data Preprocessing, Feature Engineering, Model Training & Selection<br>
+            <b>Models:</b> Logistic Regression, K-Nearest Neighbors, Random Forest, Histogram Gradient Boosting
+          </sub>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🖥️ Streamlit Dashboards
 
-<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-  <!-- Student Churn Predictor -->
-  <a href="https://github.com/maddyrm994/student-churn-predictor" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Student%20Churn%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Student Churn Predictor"/>
-  </a>
-  <br>
-  <sub>
-    Predicts dropout using academic, demographic, and engagement data.<br>
-    <a href="https://student-churn-predictor.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
-  
-  <!-- Store Shelf Product Detector -->
-  <a href="https://github.com/maddyrm994/store-shelf-product-detector" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Store%20Shelf%20Product%20Detector-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Store Shelf Product Detector"/>
-  </a>
-  <br>
-  <sub>
-    Detects products on shelves using custom YOLO model and USEARCH.<br>
-    <a href="https://store-shelf-object-detector.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
+      <!-- Student Churn Predictor -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/student-churn-predictor">
+          <img src="https://img.shields.io/badge/Student%20Churn%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Student Churn Predictor"/>
+        </a><br>
+        <sub>Predicts dropout using academic, demographic, and engagement data.<br>
+          <a href="https://student-churn-predictor.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+      <hr width="60%">
 
-  <!-- Restaurant Order Predictor -->
-  <a href="https://github.com/maddyrm994/restaurant-order-predictor" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Restaurant%20Order%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Restaurant Order Predictor"/>
-  </a>
-  <br>
-  <sub>
-    Predicts restaurant order patterns from sales, weather, and context data.<br>
-    <a href="https://restaurant-order-predictor.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
+      <!-- Store Shelf Product Detector -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/store-shelf-product-detector">
+          <img src="https://img.shields.io/badge/Store%20Shelf%20Product%20Detector-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Store Shelf Product Detector"/>
+        </a><br>
+        <sub>Detects products on shelves using custom YOLO model and USEARCH.<br>
+          <a href="https://store-shelf-object-detector.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+      <hr width="60%">
 
-  <!-- AI Chatbot -->
-  <a href="https://github.com/maddyrm994/maddys-chatbot" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/AI%20Chatbot-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Chatbot"/>
-  </a>
-  <br>
-  <sub>
-    Friendly NLP chatbot for any language or query.<br>
-    <a href="https://maddys-chatbot.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
+      <!-- Restaurant Order Predictor -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/restaurant-order-predictor">
+          <img src="https://img.shields.io/badge/Restaurant%20Order%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Restaurant Order Predictor"/>
+        </a><br>
+        <sub>Predicts restaurant order patterns from sales, weather, and context data.<br>
+          <a href="https://restaurant-order-predictor.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+      <hr width="60%">
 
-  <!-- Indian Stock Market Expert -->
-  <a href="https://github.com/maddyrm994/indian-stock-market-expert" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Indian%20Stock%20Market%20Expert-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Indian Stock Market Expert"/>
-  </a>
-  <br>
-  <sub>
-    Shows live info, trend prediction, and stock analysis.<br>
-    <a href="https://indian-stock-market-expert.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
+      <!-- AI Chatbot -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/maddys-chatbot">
+          <img src="https://img.shields.io/badge/AI%20Chatbot-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Chatbot"/>
+        </a><br>
+        <sub>Friendly NLP chatbot for any language or query.<br>
+          <a href="https://maddys-chatbot.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+    </td>
+    <td valign="top" width="50%">
 
-  <!-- Data Visualizer & Analyzer -->
-  <a href="https://github.com/maddyrm994/data-visualization-analyzer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Data%20Visualizer%20%26%20Analyzer-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Visualizer & Analyzer"/>
-  </a>
-  <br>
-  <sub>
-    Visualizes datasets and provides insights.<br>
-    <a href="https://data-visualization-analyzer.streamlit.app" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
-  <hr width="60%">
+      <!-- Indian Stock Market Expert -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/indian-stock-market-expert">
+          <img src="https://img.shields.io/badge/Indian%20Stock%20Market%20Expert-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Indian Stock Market Expert"/>
+        </a><br>
+        <sub>Shows live info, trend prediction, and stock analysis.<br>
+          <a href="https://indian-stock-market-expert.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+      <hr width="60%">
 
-  <!-- Interactive EDA Tool -->
-  <a href="https://github.com/maddyrm994/interactive-eda-tool" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Interactive%20EDA%20Tool-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Interactive EDA Tool"/>
-  </a>
-  <br>
-  <sub>
-    Cleans, visualizes, and analyzes any dataset.<br>
-    <a href="https://interactive-eda-tool.streamlit.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
-    </a>
-  </sub>
+      <!-- Data Visualizer & Analyzer -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/data-visualization-analyzer">
+          <img src="https://img.shields.io/badge/Data%20Visualizer%20%26%20Analyzer-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Visualizer & Analyzer"/>
+        </a><br>
+        <sub>Visualizes datasets and provides insights.<br>
+          <a href="https://data-visualization-analyzer.streamlit.app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+      <hr width="60%">
 
-</div>
+      <!-- Interactive EDA Tool -->
+      <div align="center">
+        <a href="https://github.com/maddyrm994/interactive-eda-tool">
+          <img src="https://img.shields.io/badge/Interactive%20EDA%20Tool-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Interactive EDA Tool"/>
+        </a><br>
+        <sub>Cleans, visualizes, and analyzes any dataset.<br>
+          <a href="https://interactive-eda-tool.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=flat-square" alt="Live App"/>
+          </a>
+        </sub>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Ongoing Projects
 
-- **[Conversational AI](https://github.com/maddyrm994/conversational-ai)**  
-  NLP, dialogue systems, chatbots, LLM experiments
-
-- **[Voice Agent](https://github.com/maddyrm994/deepgram_voice_agent)**  
-  Speech-to-text & voice interaction agent
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Conversational AI</h3>
+      <a href="https://github.com/maddyrm994/conversational-ai">
+        <img src="https://img.shields.io/badge/Conversational%20AI-4FC08D?style=for-the-badge&logo=github&logoColor=white" alt="Conversational AI"/>
+      </a><br>
+      <sub>NLP, dialogue systems, chatbots, LLM experiments</sub>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Voice Agent</h3>
+      <a href="https://github.com/maddyrm994/deepgram_voice_agent">
+        <img src="https://img.shields.io/badge/Voice%20Agent-4FC08D?style=for-the-badge&logo=github&logoColor=white" alt="Voice Agent"/>
+      </a><br>
+      <sub>Speech-to-text & voice interaction agent</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
