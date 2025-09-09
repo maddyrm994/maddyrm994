@@ -26,13 +26,13 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       <ul>
         <li>
           <b>Modern Application Development 1:</b>
-          <a href="https://github.com/maddyrm994/mad1_proj">Music Streaming Application Version 1</a>
+          <a href="https://github.com/maddyrm994/mad1_proj">Music Streaming App V1</a>
           <br>
           <sub>Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database)</sub>
         </li>
         <li>
           <b>Modern Application Development 2:</b>
-          <a href="https://github.com/maddyrm994/mad2_proj">Music Streaming Application Version 2</a>
+          <a href="https://github.com/maddyrm994/mad2_proj">Music Streaming App V2</a>
           <br>
           <sub>Python, Javascript (VueJS), SQLite, Redis, Celery</sub>
         </li>
