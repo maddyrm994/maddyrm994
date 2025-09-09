@@ -21,74 +21,75 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ### 🎓 IIT Madras Diploma in Programming
 
-| Project | Course | Tech/Methods |
-|---------|-------------|--------------|
-| [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj) | Application Development 1 | Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database) |
-| [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj) | Application Development 2 | Python, JavaScript (VueJS), SQLite, Redis, Celery |
+- **Modern Application Development 1**  
+  [Music Streaming App V1](https://github.com/maddyrm994/mad1_proj)  
+  <sub>
+    <b>Tech Stack:</b> Python (Backend), HTML & Bootstrap (Frontend), SQLite (Database)
+  </sub>
+
+- **Modern Application Development 2**  
+  [Music Streaming App V2](https://github.com/maddyrm994/mad2_proj)  
+  <sub>
+    <b>Tech Stack:</b> Python, JavaScript (VueJS), SQLite, Redis, Celery
+  </sub>
 
 ### 🎓 IIT Madras Diploma in Data Science
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech/Methods</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a>
-    </td>
-    <td>
-      Business Data Management
-    </td>
-    <td>
-      ABC Analysis,<br>
-      Inventory Turnover,<br>
-      RFM Analysis,<br>
-      Market Basket Analysis,<br>
-      Microsoft Office
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/maddyrm994/mlp_proj">Success Prediction for Bank Telemarketing</a>
-    </td>
-    <td>
-      Machine Learning Practice
-    </td>
-    <td>
-      Python,<br>
-      Kaggle,<br>
-      Scikit-Learn,<br>
-      Pandas,<br>
-      NumPy,<br>
-      Matplotlib,<br>
-      Seaborn
-    </td>
-  </tr>
-</table>
+- **Business Data Management**  
+  [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj)  
+  <sub>
+    <b>Methods:</b> ABC Analysis, Inventory Turnover, RFM Analysis, Market Basket Analysis  
+    <b>Tools:</b> Microsoft Office
+  </sub>
+
+- **Machine Learning Practice**  
+  [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj)  
+  <sub>
+    <b>Tech Stack:</b> Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
+    <b>Process:</b> EDA, Data Preprocessing, Feature Engineering, Model Training & Selection  
+    <b>Models:</b> Logistic Regression, K-Nearest Neighbors, Random Forest, Histogram Gradient Boosting
+  </sub>
 
 ---
 
 ### 🖥️ Streamlit Dashboards
 
-| Project | Description | Demo |
-|---------|-------------|------|
-| [Student Churn Predictor](https://github.com/maddyrm994/student-churn-predictor) | Predicts dropout using academic, demographic, engagement data | [Live App](https://student-churn-predictor.streamlit.app) |
-| [Store Shelf Product Detector](https://github.com/maddyrm994/store-shelf-product-detector) | Detects products in shelves with custom YOLO model, USEARCH | [Live App](https://store-shelf-object-detector.streamlit.app) |
-| [Restaurant Order Predictor](https://github.com/maddyrm994/restaurant-order-predictor) | Predicts order patterns from sales, weather, context | [Live App](https://restaurant-order-predictor.streamlit.app) |
-| [AI Chatbot](https://github.com/maddyrm994/maddys-chatbot) | Friendly NLP chatbot for any language or query | [Live App](https://maddys-chatbot.streamlit.app) |
-| [Indian Stock Market Expert](https://github.com/maddyrm994/indian-stock-market-expert) | Shows live info, trend prediction, stock analysis | [Live App](https://indian-stock-market-expert.streamlit.app) |
-| [Data Visualizer & Analyzer](https://github.com/maddyrm994/data-visualization-analyzer) | Visualizes datasets, provides insights | [Live App](https://data-visualization-analyzer.streamlit.app) |
-| [Interactive EDA Tool](https://github.com/maddyrm994/interactive-eda-tool) | Cleans, visualizes, and analyzes any dataset | [Live App](https://interactive-eda-tool.streamlit.app/) |
+- **[Student Churn Predictor](https://github.com/maddyrm994/student-churn-predictor)**  
+  Predicts dropout using academic, demographic, and engagement data.  
+  [Live App](https://student-churn-predictor.streamlit.app)
+
+- **[Store Shelf Product Detector](https://github.com/maddyrm994/store-shelf-product-detector)**  
+  Detects products on shelves using custom YOLO model and USEARCH.  
+  [Live App](https://store-shelf-object-detector.streamlit.app)
+
+- **[Restaurant Order Predictor](https://github.com/maddyrm994/restaurant-order-predictor)**  
+  Predicts restaurant order patterns from sales, weather, and context data.  
+  [Live App](https://restaurant-order-predictor.streamlit.app)
+
+- **[AI Chatbot](https://github.com/maddyrm994/maddys-chatbot)**  
+  Friendly NLP chatbot for any language or query.  
+  [Live App](https://maddys-chatbot.streamlit.app)
+
+- **[Indian Stock Market Expert](https://github.com/maddyrm994/indian-stock-market-expert)**  
+  Shows live info, trend prediction, and stock analysis.  
+  [Live App](https://indian-stock-market-expert.streamlit.app)
+
+- **[Data Visualizer & Analyzer](https://github.com/maddyrm994/data-visualization-analyzer)**  
+  Visualizes datasets and provides insights.  
+  [Live App](https://data-visualization-analyzer.streamlit.app)
+
+- **[Interactive EDA Tool](https://github.com/maddyrm994/interactive-eda-tool)**  
+  Cleans, visualizes, and analyzes any dataset.  
+  [Live App](https://interactive-eda-tool.streamlit.app/)
 
 ---
 
 ## 🛠️ Ongoing Projects
-- <b>Conversational AI:</b> [Conversational AI](https://github.com/maddyrm994/conversational-ai) <br>
-  <sub>NLP, dialogue systems, chatbots, LLM experiments</sub>
-- <b>Voice Agent:</b> [Voice Agent](https://github.com/maddyrm994/deepgram_voice_agent) <br>
-  <sub>Speech-to-text & voice interaction agent</sub>
+- **[Conversational AI](https://github.com/maddyrm994/conversational-ai)**  
+  NLP, dialogue systems, chatbots, LLM experiments
+
+- **[Voice Agent](https://github.com/maddyrm994/deepgram_voice_agent)**  
+  Speech-to-text & voice interaction agent
 
 ---
 
