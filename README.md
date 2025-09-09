@@ -28,10 +28,45 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ### 🎓 IIT Madras Diploma in Data Science
 
-| Project | Course | Tech/Methods |
-|---------|-------------|--------------|
-| [Inventory Optimization & Sustainability](https://github.com/maddyrm994/bdm_proj) | Business Data Management | ABC Analysis, Inventory Turnover, RFM, Market Basket Analysis, Microsoft Office |
-| [Success Prediction for Bank Telemarketing](https://github.com/maddyrm994/mlp_proj) | Machine Learning Practice | Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech/Methods</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a>
+    </td>
+    <td>
+      Business Data Management
+    </td>
+    <td>
+      ABC Analysis,<br>
+      Inventory Turnover,<br>
+      RFM Analysis,<br>
+      Market Basket Analysis,<br>
+      Microsoft Office
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/maddyrm994/mlp_proj">Success Prediction for Bank Telemarketing</a>
+    </td>
+    <td>
+      Machine Learning Practice
+    </td>
+    <td>
+      Python,<br>
+      Kaggle,<br>
+      Scikit-Learn,<br>
+      Pandas,<br>
+      NumPy,<br>
+      Matplotlib,<br>
+      Seaborn
+    </td>
+  </tr>
+</table>
 
 ---
 
