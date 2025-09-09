@@ -6,7 +6,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 <div align="center">
   <h1>👋 Hey there, I'm <span style="color:#2e86de;">Madhavan</span>!</h1>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150" alt="Octocat"/>
   <p>
       🤖 Building simple tools & apps using <b>Artificial Intelligence</b> & <b>Machine Learning</b>.<br>
   </p>
