@@ -258,16 +258,16 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maddyrm994&theme=flat&margin-w=10" alt="GitHub Trophy"/>
 </p>
-
+<br>
 <!-- Total Contributions, Commit Activity, Repo Stats, Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats"/>
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&hide=Jupyter%20Notebook,css,html&layout=compact&theme=radical" alt="Top Languages"/>
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical" alt="GitHub Streak Stats"/>
 </p>
-
+<br>
 <!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maddyrm994&style=for-the-badge" alt="Profile views"/>
