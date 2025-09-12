@@ -7,7 +7,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 <div align="center">
   <h1>👋 Hey there, I'm <span style="color:#2e86de;">Madhavan</span>!</h1>
   <p>
-      🤖 Building simple dashboards, apps & tools using <b>Artificial Intelligence</b> & <b>Data Science</b>.<br>
+      🤖 I build simple dashboards, applications & tools using <b>Artificial Intelligence</b> & <b>Data Science</b>.<br>
   </p>
 </div>
 
