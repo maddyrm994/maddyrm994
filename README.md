@@ -50,8 +50,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <b>Business Data Management</b><br>
           <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a><br>
           <sub>
-            <b>Methods Used for Inventory Optimization:</b> ABC Analysis, Inventory Turnover Analysis<br>
-            <b>Methods Used for Sustainability:</b>RFM Analysis, Market Basket Analysis<br>
+            <b>Methods for Inventory Optimization:</b> ABC Analysis, Inventory Turnover Analysis<br>
+            <b>Methods for Sustainability:</b> RFM Analysis, Market Basket Analysis<br>
             <b>Tools:</b> Microsoft Office
           </sub>
         </li>
@@ -104,11 +104,10 @@ GitHub Vibe: Modern, welcoming, and visually organized.
         <strong>Restaurant Order Predictor</strong><br>
         Predicts order patterns from sales, weather, context.<br>
         <a href="https://github.com/maddyrm994/restaurant-order-predictor">
-          <img src="https://img.shields.io/badge/Repo-Restaurant%20Order%20Predictor-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
-        <br>
         <a href="https://restaurant-order-predictor.streamlit.app">
-          <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -116,11 +115,10 @@ GitHub Vibe: Modern, welcoming, and visually organized.
         <strong>AI Chatbot</strong><br>
         Friendly NLP chatbot for any language or query.<br>
         <a href="https://github.com/maddyrm994/maddys-chatbot">
-          <img src="https://img.shields.io/badge/Repo-AI%20Chatbot-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
-        <br>
         <a href="https://maddys-chatbot.streamlit.app">
-          <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
     </td>
@@ -130,11 +128,10 @@ GitHub Vibe: Modern, welcoming, and visually organized.
         <strong>Indian Stock Market Expert</strong><br>
         Shows live info, trend prediction, stock analysis.<br>
         <a href="https://github.com/maddyrm994/indian-stock-market-expert">
-          <img src="https://img.shields.io/badge/Repo-Indian%20Stock%20Market%20Expert-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
-        <br>
         <a href="https://indian-stock-market-expert.streamlit.app">
-          <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -142,11 +139,10 @@ GitHub Vibe: Modern, welcoming, and visually organized.
         <strong>Data Visualizer & Analyzer</strong><br>
         Visualizes datasets, provides insights.<br>
         <a href="https://github.com/maddyrm994/data-visualization-analyzer">
-          <img src="https://img.shields.io/badge/Repo-Data%20Visualizer%20%26%20Analyzer-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
-        <br>
         <a href="https://data-visualization-analyzer.streamlit.app">
-          <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -154,11 +150,10 @@ GitHub Vibe: Modern, welcoming, and visually organized.
         <strong>Interactive EDA Tool</strong><br>
         Cleans, visualizes, and analyzes any dataset.<br>
         <a href="https://github.com/maddyrm994/interactive-eda-tool">
-          <img src="https://img.shields.io/badge/Repo-Interactive%20EDA%20Tool-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
-        <br>
         <a href="https://interactive-eda-tool.streamlit.app/">
-          <img src="https://img.shields.io/badge/Demo-Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
     </td>
