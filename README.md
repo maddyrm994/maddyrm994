@@ -252,6 +252,29 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maddyrm994&theme=flat&margin-w=10" alt="GitHub Trophy"/>
+</p>
+
+<!-- Total Contributions, Commit Activity, Repo Stats, Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&hide=Jupyter%20Notebook,css,html&layout=compact&theme=radical" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maddyrm994&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p>
