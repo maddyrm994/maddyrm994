@@ -50,7 +50,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <b>Business Data Management</b><br>
           <a href="https://github.com/maddyrm994/bdm_proj">Inventory Optimization & Sustainability</a><br>
           <sub>
-            <b>Methods Used:</b> ABC Analysis, Inventory Turnover Analysis, RFM Analysis, Market Basket Analysis<br>
+            <b>Methods Used for Inventory Optimization:</b> ABC Analysis, Inventory Turnover Analysis<br>
+            <b>Methods Used for Sustainability:</b>RFM Analysis, Market Basket Analysis<br>
             <b>Tools:</b> Microsoft Office
           </sub>
         </li>
@@ -59,7 +60,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <b>Machine Learning Practice</b><br>
           <a href="https://github.com/maddyrm994/mlp_proj">Success Prediction for Bank Telemarketing</a><br>
           <sub>
-            <b>Technologies:</b> Python, Kaggle, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn<br>
+            <b>Technologies:</b> Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn<br>
             <b>Process:</b> Exploratory Data Analysis, Data Preprocessing, Feature Engineering, Model Training & Selection<br>
             <b>Models:</b> Logistic Regression, K-Nearest Neighbors, Random Forest, Histogram Gradient Boosting
           </sub>
@@ -71,7 +72,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ---
 
-### 🖥️ Streamlit Dashboards
+## 🖥️ Streamlit Dashboards
 
 <table>
   <tr>
@@ -166,29 +167,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 
 ---
 
-## 🛠️ Ongoing Projects
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Conversational AI</h3>
-      <a href="https://github.com/maddyrm994/conversational-ai">
-        <img src="https://img.shields.io/badge/Conversational%20AI-4FC08D?style=for-the-badge&logo=github&logoColor=white" alt="Conversational AI"/>
-      </a><br>
-      <sub>NLP, dialogue systems, chatbots, LLM experiments</sub>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Voice Agent</h3>
-      <a href="https://github.com/maddyrm994/deepgram_voice_agent">
-        <img src="https://img.shields.io/badge/Voice%20Agent-4FC08D?style=for-the-badge&logo=github&logoColor=white" alt="Voice Agent"/>
-      </a><br>
-      <sub>Speech-to-text & voice interaction agent</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌟 Skills
 
 ### 🖥️ Programming
@@ -216,7 +194,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </a>
 </p>
 
-**Databases & Messaging**
+**Databases & Background Tasks**
 <p>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -275,21 +253,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&theme=radical" alt="maddyrm994's GitHub Stats" height="160"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical" alt="maddyrm994's Most Used Languages" height="160"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
