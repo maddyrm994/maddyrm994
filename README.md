@@ -80,7 +80,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     <td valign="top" width="50%">
       <p>
         <strong>Student Churn Predictor</strong><br><br>
-        Predicts dropout using academic, demographic, engagement data.<br><br>
+        Predicts students who would dropout using their academic, demographic, engagement data.<br><br>
         <a href="https://github.com/maddyrm994/student-churn-predictor">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -91,7 +91,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       <hr>
       <p>
         <strong>Store Shelf Product Detector</strong><br><br>
-        Detects products in shelves with custom YOLO model, USEARCH.<br><br>
+        Detects products in shelves with custom YOLO model and USEARCH for vector database.<br><br>
         <a href="https://github.com/maddyrm994/store-shelf-product-detector">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -101,8 +101,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       </p>
       <hr>
       <p>
-        <strong>Restaurant Order Predictor</strong><br>
-        Predicts order patterns from sales, weather, context.<br>
+        <strong>Restaurant Order Predictor</strong><br><br>
+        Predicts order patterns from sales, weather, context.<br><br>
         <a href="https://github.com/maddyrm994/restaurant-order-predictor">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -112,8 +112,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       </p>
       <hr>
       <p>
-        <strong>AI Chatbot</strong><br>
-        Friendly NLP chatbot for any language or query.<br>
+        <strong>AI Chatbot</strong><br><br>
+        Friendly NLP chatbot for any language or query.<br><br>
         <a href="https://github.com/maddyrm994/maddys-chatbot">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -125,8 +125,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     <!-- Right Column: 3 Projects -->
     <td valign="top" width="50%">
       <p>
-        <strong>Indian Stock Market Expert</strong><br>
-        Shows live info, trend prediction, stock analysis.<br>
+        <strong>Indian Stock Market Expert</strong><br><br>
+        Shows live information about shares, predicts trend of the share prices, analyzes stock using AI.<br><br>
         <a href="https://github.com/maddyrm994/indian-stock-market-expert">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -136,8 +136,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       </p>
       <hr>
       <p>
-        <strong>Data Visualizer & Analyzer</strong><br>
-        Visualizes datasets, provides insights.<br>
+        <strong>Data Visualizer & Analyzer</strong><br><br>
+        Creates appropriate visualizations for datasets, provides insights using AI.<br><br>
         <a href="https://github.com/maddyrm994/data-visualization-analyzer">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -147,8 +147,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
       </p>
       <hr>
       <p>
-        <strong>Interactive EDA Tool</strong><br>
-        Cleans, visualizes, and analyzes any dataset.<br>
+        <strong>Interactive EDA Tool</strong><br><br>
+        Cleans, visualizes, and analyzes any dataset.<br><br>
         <a href="https://github.com/maddyrm994/interactive-eda-tool">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
@@ -156,6 +156,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
+      <hr>
     </td>
   </tr>
 </table>
