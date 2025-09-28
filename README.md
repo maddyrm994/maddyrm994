@@ -248,10 +248,9 @@
 </p>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&hide=Jupyter%20Notebook,css,html&layout=compact&theme=radical" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&theme=radical&width=330" width="330" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical&width=250" width="250" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical&width=348" width="348" alt="GitHub Streak Stats"/>
 </p>
 <br>
 <p>
