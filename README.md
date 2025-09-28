@@ -72,7 +72,7 @@
     <!-- Left Column: 4 Projects -->
     <td valign="top" width="50%">
       <p>
-        <strong>Student Churn Predictor</strong><br><br>
+        <h2><strong>Student Churn Predictor</strong></h2>h2><br><br>
         Predicts students who would dropout using their academic, demographic, engagement data.<br><br>
         <a href="https://github.com/maddyrm994/student-churn-predictor">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
