@@ -1,14 +1,9 @@
-<!--
-Profile README for @maddyrm994
-
-GitHub Vibe: Modern, welcoming, and visually organized.
--->
-
 <div align="center">
   <h1>👋 Hey there, I'm <span style="color:#2e86de;">Madhavan</span>!</h1>
   <p>
       🤖 I build simple dashboards, applications & tools using <b>Artificial Intelligence</b> & <b>Data Science</b>.<br>
   </p>
+  <hr>
 </div>
 
 ## 🚀 Completed Academic Projects
@@ -67,6 +62,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     </td>
   </tr>
 </table>
+
+<hr>
 
 ## 🖥️ Streamlit Dashboards
 
@@ -157,6 +154,8 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </tr>
 </table>
 
+<hr>
+
 ## 🌟 Skills
 
 ### 🖥️ Programming
@@ -240,15 +239,15 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </a>
 </p>
 
+<hr>
+
 ## 📊 GitHub Stats
 
-<!-- Profile Trophy -->
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=maddyrm994&theme=flat&margin-w=10" alt="GitHub Trophy"/>
 </p>
 <br>
-<!-- Total Contributions, Commit Activity, Repo Stats, Top Languages -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&hide=Jupyter%20Notebook,css,html&layout=compact&theme=radical" alt="Top Languages"/>
@@ -256,10 +255,11 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 <br>
-<!-- Visitor Count -->
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=maddyrm994&style=for-the-badge" alt="Profile views"/>
 </p>
+
+<hr>
 
 ## 📫 Connect with Me
 
