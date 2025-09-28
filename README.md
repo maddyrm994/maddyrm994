@@ -252,10 +252,10 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="mailto:maddyrm994@gmail.com">
+  <a href="madhavan.rajeswari.mohan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/madhavan-r-mohan-62b9601b2" target="_blank">
+  <a href="https://www.linkedin.com/in/madhavan-rajeswari-mohan-7953201b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/maddyrm994" target="_blank">
