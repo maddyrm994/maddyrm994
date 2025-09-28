@@ -6,12 +6,12 @@
   <hr>
 </div>
 
-## 🚀 Completed Academic Projects
+## 🚀 Completed Academic Projects in IIT Madras BS Degree in Data Science and Applications
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">🎓 IIT Madras Diploma in Programming</h3>
+      <h3 align="center">🎓 Diploma in Programming</h3>
       <ul>
         <li>
           <b>Modern Application Development 1</b><br>
@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">🎓 IIT Madras Diploma in Data Science</h3>
+      <h3 align="center">🎓 Diploma in Data Science</h3>
       <ul>
         <li>
           <b>Business Data Management</b><br>
