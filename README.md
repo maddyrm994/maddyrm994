@@ -6,7 +6,7 @@
   <hr>
 </div>
 
-## 🚀 Completed Academic Projects
+# 🚀 Completed Academic Projects
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
 
 <hr>
 
-## 🖥️ Streamlit Dashboards
+# 🖥️ Streamlit Dashboards
 
 <table>
   <tr>
@@ -156,9 +156,9 @@
 
 <hr>
 
-## 🌟 Skills
+# 🌟 Skills
 
-### 🖥️ Programming
+## 🖥️ Programming
 
 **Frontend**
 <p>
@@ -196,7 +196,7 @@
   </a>
 </p>
 
-### 📊 Data Science & Analytics
+## 📊 Data Science & Analytics
 
 <p>
   <a href="https://scikit-learn.org/" target="_blank">
@@ -216,7 +216,7 @@
   </a>
 </p>
 
-### 🛠️ Platforms & Tools
+## 🛠️ Platforms & Tools
 
 <p>
   <a href="https://jupyter.org/" target="_blank">
@@ -241,7 +241,7 @@
 
 <hr>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical&width=300" width="300" alt="Top Languages"/>
@@ -250,7 +250,7 @@
 
 <hr>
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
 <p>
   <a href="mailto:maddyrm994@gmail.com">
