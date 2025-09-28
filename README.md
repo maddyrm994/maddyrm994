@@ -249,7 +249,6 @@
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats"/>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&hide=Jupyter%20Notebook,css,html&layout=compact&theme=radical" alt="Top Languages"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical" alt="GitHub Streak Stats"/>
