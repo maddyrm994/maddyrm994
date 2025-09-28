@@ -11,8 +11,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </p>
 </div>
 
----
-
 ## 🚀 Completed Academic Projects
 
 <table>
@@ -69,8 +67,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     </td>
   </tr>
 </table>
-
----
 
 ## 🖥️ Streamlit Dashboards
 
@@ -161,8 +157,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </tr>
 </table>
 
----
-
 ## 🌟 Skills
 
 ### 🖥️ Programming
@@ -203,8 +197,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </a>
 </p>
 
----
-
 ### 📊 Data Science & Analytics
 
 <p>
@@ -224,8 +216,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
     <img src="https://img.shields.io/badge/Seaborn-2A2A2A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Platforms & Tools
 
@@ -250,8 +240,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
   </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <!-- Profile Trophy -->
@@ -272,8 +260,6 @@ GitHub Vibe: Modern, welcoming, and visually organized.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maddyrm994&style=for-the-badge" alt="Profile views"/>
 </p>
-
----
 
 ## 📫 Connect with Me
 
