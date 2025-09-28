@@ -244,17 +244,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=maddyrm994&theme=flat&margin-w=10" alt="GitHub Trophy"/>
-</p>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maddyrm994&show_icons=true&theme=radical&width=330" width="330" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical&width=250" width="250" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical&width=348" width="348" alt="GitHub Streak Stats"/>
-</p>
-<br>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=maddyrm994&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <hr>
