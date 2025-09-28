@@ -244,8 +244,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical&width=250" width="250" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical&width=348" width="348" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyrm994&layout=compact&theme=radical&width=300" width="300" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maddyrm994&theme=radical&width=420" width="420" alt="GitHub Streak Stats"/>
 </p>
 
 <hr>
