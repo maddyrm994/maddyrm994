@@ -18,7 +18,8 @@
           <a href="https://github.com/maddyrm994/mad1_proj">Music Streaming App V1</a><br>
           <sub>
             <b>Backend:</b> Python <br>
-            <b>Frontend:</b> HTML & Bootstrap <br>
+            <b>Frontend:</b> HTML <br>
+            <b>Styling:</b> Bootstrap <br>
             <b>Database:</b> SQLite <br>
           </sub>
         </li>
