@@ -85,7 +85,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://student-churn-predictor.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -96,7 +96,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://store-shelf-object-detector.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -107,7 +107,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://restaurant-order-predictor.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -118,7 +118,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://maddys-chatbot.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
     </td>
@@ -131,7 +131,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://indian-stock-market-expert.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -142,7 +142,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://data-visualization-analyzer.streamlit.app">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
@@ -153,7 +153,7 @@ GitHub Vibe: Modern, welcoming, and visually organized.
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://interactive-eda-tool.streamlit.app/">
-          <img src="https://img.shields.io/badge/Live%20App-43B581?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
       <hr>
