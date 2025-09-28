@@ -6,7 +6,7 @@
   <hr>
 </div>
 
-## 🚀 Completed Academic Projects in IIT Madras BS Degree in Data Science and Applications
+## 🚀 Completed Academic Projects in IIT Madras BS Degree
 
 <table>
   <tr>
