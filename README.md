@@ -149,6 +149,16 @@
         </a>
       </p>
       <hr>
+      <p>
+        <strong>Weather Report Generator</strong><br><br>
+        Shows current weather conditions of any city, and AI generates a short summary.<br><br>
+        <a href="https://github.com/maddyrm994/weather-report-generator">
+          <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://ai-weather-report-generator.streamlit.app">
+          <img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
