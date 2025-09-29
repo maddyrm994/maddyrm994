@@ -106,7 +106,7 @@
       <hr>
       <p>
         <strong>AI Chatbot</strong><br><br>
-        Friendly NLP chatbot for any language or query.<br><br>
+        Friendly chatbot which responds using Natural Language Processing for any language or query.<br><br>
         <a href="https://github.com/maddyrm994/maddys-chatbot">
           <img src="https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github"/>
         </a>
